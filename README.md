@@ -1,6 +1,44 @@
-# 👋 Hola, soy Alain Gomez Zapata
-- 👀 Soy Desarrollador de Software, mi enfoque principal es Java, tambien las bases de datos SQL y sistemas transaccionales.
-- 🌱 Actualmente estoy trabajando Spring Boot, Hibernate, y todo lo relacionado con creacion y gestion de APIs.
-- 💞️ Estoy buscando colaborar en proyectos de desarrollo de software, especialmente en Java y sistemas distribuidos.
-- 📫 Cómo contactarme: Puedes enviarme un mensaje por LinkedIn, alli tambien podras encontrar mas sobre mi experiencia.
-- ⚡ Curiosidad: Me apasiona la tecnología y siempre estoy buscando nuevas formas de aprender y mejorar mis habilidades..
+<h2 align="left"># Hola, soy Alain Gomez Zapata<br><br>Desarrollador Backend con experiencia en el diseño e implementación de aplicaciones escalables y eficientes. Mi enfoque principal es Java con Spring Boot, además de contar con sólidos conocimientos en Hibernate, SQL y tecnologías web como HTML, CSS y JavaScript.<br><br>Me especializo en la construcción de sistemas backend robustos, la gestión de bases de datos relacionales, la creación y optimización de APIs y el desarrollo de sistemas transaccionales y distribuidos.</h2>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="devalgz955@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/alaingz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
