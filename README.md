@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Alain Gomez Zapata</h1>
+<h1 align="center">👋 Alain Gomez Zapata</h1>
 <h3 align="center">Desarrollador Backend | Java | Spring Boot | Hibernate | SQL </h3>
 
 ---
