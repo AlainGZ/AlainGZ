@@ -7,7 +7,7 @@
 🔹 **Desarrollador Backend** con experiencia en la creación de sistemas escalables y de alto rendimiento.  
 🔹 Especializado en **Java, Spring Boot, Hibernate y SQL**.  
 🔹 Enfocado en **APIs RESTful, sistemas transaccionales y arquitectura de microservicios**.  
-🔹 Con conocimientos en **HTML, CSS, JavaScript** y herramientas para integración y despliegue.  
+🔹 Con conocimientos en **HTML, CSS, JavaScript** y herramientas para integración y despliegue **Git, Docker**.  
 
 ---
 
