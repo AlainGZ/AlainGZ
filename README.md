@@ -1,5 +1,5 @@
 <h1 align="center">Alain Gomez Zapata</h1>
-<h3 align="center">Desarrollador Backend | Java | Spring Boot | Hibernate | SQL | Android</h3>
+<h3 align="center">Desarrollador Backend | Java | Spring Boot | Hibernate | SQL | Android </h3>
 
 ---
 
